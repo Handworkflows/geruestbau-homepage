@@ -1,8 +1,8 @@
-# Gerüstbau Homepage
+# Ludwigsburger Gerüstbau – Homepage
 
 Eigenständiges Website-Projekt für den geplanten Gerüstbaubetrieb.
 
-Status: Projekt eingerichtet; Firmenname, Gestaltung und Inhalte noch festzulegen.
+Status: Projekt eingerichtet. Vorläufiger Name: Ludwigsburger Gerüstbau. Gestaltung und Inhalte werden gemeinsam erarbeitet.
 
 ## Projektgrenzen
 
@@ -10,7 +10,7 @@ Dieses Repository enthält ausschließlich die Unternehmenswebsite. ScaffoldAI I
 
 ## Nächste Entscheidungen
 
-1. Firmenname, vorhandenes Logo und Domain
+1. Endgültige Firmierung, neues Logo und Domain
 2. Tatsächlich angebotene Leistungen und Einsatzgebiet
 3. Zielkunden und gewünschte Kontaktmöglichkeiten
 4. Fotos, Referenzen und Gestaltungsrichtung

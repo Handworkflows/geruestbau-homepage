@@ -5,6 +5,7 @@ Stand: 26. Oktober 2026
 ## Bestätigt
 
 - Neue Homepage für einen kleinen Gerüstbaubetrieb.
+- Vorläufiger Name laut Nutzer: Ludwigsburger Gerüstbau. Für Entwürfe verwenden; endgültige Firmierung und Verfügbarkeit noch offen.
 - Geplante Rechtsform: voraussichtlich UG; noch nicht als eingetragene Firma darstellen.
 - Entwicklung auf demselben PC wie ScaffoldAI Inspect, mit OpenClaw und PowerShell.
 - Eigenständiger Projektordner und eigenes GitHub-Repository.
